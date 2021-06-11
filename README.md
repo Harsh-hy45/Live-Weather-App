@@ -1,16 +1,12 @@
-# final_clima
 
-A new Flutter application.
+Features:-
+1. This application is based on Flutter framework.
 
-## Getting Started
+2. Information regarding temperature and other climatic conditions are fetched by calling
+ OpenWeather APIs( is a platform containing set of elegant and widely recognisable APIs).
+ 
+3.User's current geographical coordinates are fetched through geolocator package of Flutter.
 
-This project is a starting point for a Flutter application.
+4.User's can acquire weather data based on the city name provided by them.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5. Contains multi-screen functionality for search bar and data display. 
